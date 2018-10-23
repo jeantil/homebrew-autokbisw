@@ -3,7 +3,7 @@ class Autokbisw < Formula
   homepage "https://github.com/jeantil/autokbisw"
   url "https://github.com/jeantil/autokbisw/archive/1.2.0.tar.gz"
   version "1.2.0"
-  sha256 "1c3bfad19b9025ad15f01ea0554351f47225807efd85cb4b4f0b6e1785af3f3e"
+  sha256 "acb0e2d34472c86bdce9bbe8c04b0a22af60901288ae21e087fc677a297fc17f"
     
   bottle do
     root_url 'https://github.com/jeantil/autokbisw/releases/download/1.2.0'
